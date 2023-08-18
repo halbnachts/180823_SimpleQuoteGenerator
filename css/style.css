@@ -1,0 +1,33 @@
+body {
+    background-image: url(space.jpg);
+  }
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-style: bold; 
+    text-align: center;
+    background: -webkit-linear-gradient(0deg,rgb(0, 255, 55), rgb(255, 0, 238));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 50px; 
+    font-style: bold; 
+    text-align: center;
+    color: white;
+}
+
+div button {
+    background-color: transparent; 
+    border: none; 
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    cursor: pointer; 
+}
+
+.glyphicon-thumbs-up {
+    margin-right: 20%;
+}
